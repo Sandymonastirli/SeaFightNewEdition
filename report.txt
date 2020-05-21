@@ -1,0 +1,2 @@
+O kodikas einai sxediasmenos kai trexei kata to provlepomeno apo tin ekfonisi.
+Gia tin ektelesi kanoume compile ola ta java arxeia (*.java) kai ekteloume tin BattleShip.
